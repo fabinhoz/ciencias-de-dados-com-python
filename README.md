@@ -1,3 +1,7 @@
+# ciencias-de-dados-com-python
+Dashboard interativo utilizando python e streamlit
+
+
 # 📊 Dashboard de Salários na Área de Dados  
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -37,6 +41,7 @@ Um **dashboard interativo** desenvolvido em **Python** com **Streamlit**, **Pand
 ├── dados_imersao_final.csv # Dataset (ou link para o GitHub)
 ├── requirements.txt        # Dependências do projeto
 └── README.md               # Documentação do projeto
+
 ```
 
 ---
@@ -55,7 +60,9 @@ Um **dashboard interativo** desenvolvido em **Python** com **Streamlit**, **Pand
 
 Clone o repositório:
 ```bash
+
 git clone https://github.com/fabinhoz/ciencias-de-dados-com-python.git
+
 cd dashboard-salarios
 ```
 
@@ -104,4 +111,5 @@ Este projeto está licenciado sob a **MIT License** — sinta-se livre para usá
 
 ---
 
-💡 *Feito com Python, Café ☕ e muita curiosidade por dados.*
+💡 *Feito por fabinhoz com Python, Café ☕ e muita curiosidade por dados.*
+
