@@ -63,7 +63,7 @@ Clone o repositório:
 
 git clone https://github.com/fabinhoz/ciencias-de-dados-com-python.git
 
-cd dashboard-salarios
+cd ciencias-de-dados-com-python
 ```
 
 Crie um ambiente virtual e instale as dependências:
