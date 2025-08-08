@@ -15,7 +15,7 @@ Um **dashboard interativo** desenvolvido em **Python** com **Streamlit**, **Pand
 
 ## 🚀 Acesse meu Projeto Online
 
-[![Abrir no Streamlit](https://img.shields.io/badge/Abrir%20no-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://https://ciencias-de-dados-com-python.streamlit.app)
+[📊 Acesse o App no Streamlit](https://ciencias-de-dados-com-python.streamlit.app/)
 
 ---
 
