@@ -33,10 +33,10 @@ Um **dashboard interativo** desenvolvido em **Python** com **Streamlit**, **Pand
 ```
 📁 dashboard-salarios
 │
-├── app.py                # Código principal do dashboard
-├── dados.csv              # Dataset (ou link para o GitHub)
-├── requirements.txt       # Dependências do projeto
-└── README.md              # Documentação do projeto
+├── app.py                  # Código principal do dashboard
+├── dados_imersao_final.csv # Dataset (ou link para o GitHub)
+├── requirements.txt        # Dependências do projeto
+└── README.md               # Documentação do projeto
 ```
 
 ---
@@ -55,7 +55,7 @@ Um **dashboard interativo** desenvolvido em **Python** com **Streamlit**, **Pand
 
 Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/dashboard-salarios.git
+git clone https://github.com/fabinhoz/ciencias-de-dados-com-python.git
 cd dashboard-salarios
 ```
 
